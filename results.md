@@ -1,3 +1,4 @@
+#table
 | dataset | average verification time | median time | percentage < 250us |
 | :-------: | : -------------------------: | :-------------: | :--------------------: |
 |4switch|34.8218 |34820 |99.6967%|
